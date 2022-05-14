@@ -4,8 +4,8 @@ Backend (ex-FullStack) Developer well-know for have created the amazing PicSQL l
 ![](pic.png)
 
 I love programming (!!!) and parsers (?!) but also:
-<ul>
-<li>Make Very Bad Music With Huge Expensive Modular Synthetizer</li> 
+
+- Make Very Bad Music With Huge Expensive Modular Synthetizer</li> 
 
 ![](modular.png)
 
