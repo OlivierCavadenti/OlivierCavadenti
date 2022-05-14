@@ -9,9 +9,20 @@ I love programming (!!!) and parsers (?!) but also:
 
 ![](modular.png)
 
-<li>Spend My Money In Magic The Gathering Cards And Lose Tournaments</li> 
-<li>Read Old School Science Fiction Books and Comics</li> 
-<li>My Little Son <3</li> 
-</ul>
+- Spend My Money In Magic The Gathering Cards And Lose Tournaments
+- Read Old School Science Fiction Books and Comics
+  - Books Sci-Fi Favorite Authors :
+    - Philip K. Dick ❤️❤️❤️❤️
+    - Robert Sheckley ❤️❤️❤️
+    - Robert Silverberg ❤️❤️
+    - Orson Scott Card ❤️
+    - Clifford D. Simak ❤️
+  - Comics Sci-Fi Favorite Authors :
+    - Philippe Druillet ❤️❤️❤️❤️
+    - Moebius ❤️❤️❤️️️
+    - Keiichi Koike ❤️❤️❤️
+    - Tsutomu Nihei ❤️❤️
+- My Little Son ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
+
 
 [![OlivierCavadenti's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlivierCavadenti)](https://github.com/OlivierCavadenti/github-readme-stats)
