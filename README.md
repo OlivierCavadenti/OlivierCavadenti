@@ -1,6 +1,8 @@
 
 Backend (ex-FullStack) Developer well-know for have created the amazing PicSQL library: https://github.com/olcav/picsql
 
+[My blog](oliviercavadenti.github.io)
+
 ![](pic.png)
 
 I love programming and parsers but also:
